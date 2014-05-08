@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sru_dc="info:srw/schema/1/dc-schema" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" exclude-result-prefixes="sru_dc oai_dc dc" version="2.0">
    
-    <!-- 20140508 Kim Pham: This xslt version 2.0 stylesheet is been adapted to transform DC in RDF to MODS.  -->
+    <!-- 20140508 Kim Pham: This xslt version 2.0 stylesheet is been adapted to transform DC in RDF to MODS.  
+        Removed line 45
+    -->
     <!-- Used Transformer Saxon-PE 9.5.1.3-->
     
     <!--
@@ -42,7 +44,7 @@
     <xsl:variable name="handleServer">
 		<xsl:text>http://hdl.loc.gov/</xsl:text>
     </xsl:variable>
-    <xsl:template match="*[not(node())]"/> <!-- strip empty DC elements that are output by tools like ContentDM -->
+    
     <xsl:template match="/">
         <xsl:if test="sru_dc:dcCollection">
             <xsl:apply-templates select="sru_dc:dcCollection"/>
