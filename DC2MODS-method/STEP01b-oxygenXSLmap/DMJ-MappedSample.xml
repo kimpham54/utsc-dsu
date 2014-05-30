@@ -1,0 +1,61 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description about="http://cdm15743.contentdm.oclc.org/cdm/ref/collection/dcterms/id/25">
+      <dc:title>Doris McCarthy: Recent paintings
+</dc:title>
+      <dc:creator>Robert Vanderleelie Gallery</dc:creator>
+      <dc:subject>Painting Canadian - 20th century - Exhibitions; McCarthy, Doris, 1910-2010 - Exhibitions</dc:subject>
+      <dc:description>Invitation to opening reception "Doris McCarthy: Recent paintings" at Robert Vanderleelie Gallery. Card contains image of painting "Pressure Ice in the late light, Broughton Island",1984.
+
+Item in good condition.</dc:description>
+      <dc:publisher/>
+      <dc:contributor/>
+      <dc:date>1984</dc:date>
+      <dc:type>Image; text</dc:type>
+      <dc:format>invitations; cards
+colored ink; paper
+18.5 cm x 15 cm
+tiff
+89.8 MB</dc:format>
+      <dc:identifier>20110413-01</dc:identifier>
+      <dc:source>o2011001C-7-19_03</dc:source>
+      <dc:language>eng</dc:language>
+      <dc:relation>Doris McCarthy fonds
+Galleries, Art Associations, and Artist Activities
+Exhibition Cards
+</dc:relation>
+      <dc:coverage>1980-1989
+Edmonton (Alberta, Canada : inhabited place);</dc:coverage>
+      <dc:rights>University of Toronto Scarborough
+Canadian and international copyright laws protect this digital files. Meant for research and study. Commercial use or distribution is not permitted without the permission of the copyright holder. Please contact holding institution for further information.</dc:rights>
+   </rdf:Description>
+   <rdf:Description about="http://cdm15743.contentdm.oclc.org/cdm/ref/collection/dcterms/id/26">
+      <dc:title>Doris McCarthy: New Works
+</dc:title>
+      <dc:creator>Canadian Art Galleries</dc:creator>
+      <dc:subject>Painting Canadian - 20th century - Exhibitions; McCarthy, Doris, 1910-2010 - Exhibitions</dc:subject>
+      <dc:description>Meet the artist announcement and exhibition "Doris McCarthy: New Works" at Canadian Art Galleries from 1992-04-11 to 1992-05-5. Announcement contains an image of the painting "Bishop's Harbour" 1991. Contains image "Bishop's Harbour,' oil on linen, 5' x 7', 1991.
+
+Item in good condition.</dc:description>
+      <dc:publisher/>
+      <dc:contributor/>
+      <dc:date>1992</dc:date>
+      <dc:type>Image; text</dc:type>
+      <dc:format>invitations; exhibition openings;
+colored ink; paper
+28 cm x 21.7 cm
+tiff
+196.6 MB</dc:format>
+      <dc:identifier>20110413-02</dc:identifier>
+      <dc:source>o2011001C-1-12_04</dc:source>
+      <dc:language>eng</dc:language>
+      <dc:relation>Doris McCarthy fonds
+Galleries, Art Associations, and Artist Activities
+Exhibition Cards
+</dc:relation>
+      <dc:coverage>1990-1999
+Calgary (Alberta, Canada : inhabited place);</dc:coverage>
+      <dc:rights>University of Toronto Scarborough
+Canadian and international copyright laws protect this digital file. Meant for research and study. Commercial use or distribution is not permitted without the permission of the copyright holder. Please contact holding institution for further information.</dc:rights>
+   </rdf:Description>
+</rdf:RDF>

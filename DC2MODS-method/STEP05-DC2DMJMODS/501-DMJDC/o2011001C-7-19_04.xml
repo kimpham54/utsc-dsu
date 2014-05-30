@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF SYSTEM "http://purl.org/dc/schemas/dcmes-xml-20000714.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description about="http://cdm15743.contentdm.oclc.org/cdm/ref/collection/dcterms/id/31">
+      <dc:title>Doris McCarthy: Feast of Incarnation
+</dc:title>
+      <dc:creator>Justina M Barnicke Gallery, Hart House</dc:creator>
+      <dc:subject>Painting Canadian - 20th century - Exhibitions; McCarthy, Doris, 1910-2010 - Exhibitions; Justina M Barnicke Gallery</dc:subject>
+      <dc:description>Invitation to opening and exhibition "Doris McCarthy: Feast of Incarnation" at Justina M Barnicke Gallery from 1993-11-18 to 1993-12-16
+
+Item in good condition.</dc:description>
+      <dc:publisher/>
+      <dc:contributor>Gallery/Stratford</dc:contributor>
+      <dc:date>1993</dc:date>
+      <dc:type>text</dc:type>
+      <dc:format>invitations; exhibition openings;
+ink; paper
+15.3 cm x 10.2 cm
+tiff
+50 MB</dc:format>
+      <dc:identifier>20110413-05</dc:identifier>
+      <dc:source>o2011001C-7-19_04</dc:source>
+      <dc:language>eng</dc:language>
+      <dc:relation>Doris McCarthy fonds
+Galleries, Art Associations, and Artist Activities
+Exhibition Cards
+</dc:relation>
+      <dc:coverage>1990-1999
+Toronto (Toronto Metropolitan Area, Ontario : inhabited place);</dc:coverage>
+      <dc:rights>University of Toronto Scarborough
+Canadian and international copyright laws protect this digital files. Meant for research and study. Commercial use or distribution is not permitted without the permission of the copyright holder. Please contact holding institution for further information.</dc:rights>
+   </rdf:Description>
+</rdf:RDF>

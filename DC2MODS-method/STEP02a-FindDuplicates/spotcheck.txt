@@ -1,0 +1,7 @@
+double dashes
+did a pretty thorough spot check going through this with.xsl and seeing if it matches to rename map
+
+duplicates can be ignored - who cares
+therefore DMJ-remove dupes move to next stage - rename remove periods etc.
+
+728 files should be left after rename.sh (duplicates overwritten twice)

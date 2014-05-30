@@ -1,0 +1,241 @@
+Searching 18333 files for "o2011001C-1-12_01_p04"
+
+/Users/kimpham54/Desktop/dsu-utsc/week19-20/DMJ-renaming/DMJ-RENAMEmap v2.csv:
+  527  odjm2011052477-05,o2011001C-1-12_03
+  528  odjm2011052477-06,o2011001C-1-12_01_p03
+  529: odjm2011052477-07,o2011001C-1-12_01_p04
+  530  odjm2011052477-08,o2011001C-1-12_04
+  531  odjm2011052477-09,o2011001C-1-12_02_p03
+
+/Users/kimpham54/Desktop/dsu-utsc/week19-20/DMJ-renaming/DMJ-RENAMEmap.csv:
+  527  odjm2011052477-05.tif,o2011001C-1-12_03
+  528  odjm2011052477-06.tif,o2011001C-1-12_01_p03
+  529: odjm2011052477-07.tif,o2011001C-1-12_01_p04
+  530  odjm2011052477-08.tif,o2011001C-1-12_04
+  531  odjm2011052477-09.tif,o2011001C-1-12_02_p03
+
+/Users/kimpham54/Desktop/dsu-utsc/week19-20/DMJ-renaming/DMJ-rubyrenameTEST/HELLORENAME copy/00001.sh:
+  463  mv odjm2011052477-05.xml o2011001C-1-12_03.xml
+  464  mv odjm2011052477-06.xml o2011001C-1-12_01_p03.xml
+  465: mv odjm2011052477-07.xml o2011001C-1-12_01_p04.xml
+  466  mv odjm2011052477-08.xml o2011001C-1-12_04.xml
+  467  mv odjm2011052477-09.xml o2011001C-1-12_02_p03.xml
+
+/Users/kimpham54/Desktop/dsu-utsc/week19-20/DMJ-renaming/DMJ-rubyrenameTEST/HELLORENAME.csv:
+  466  odjm2011052477-05,o2011001C-1-12_03
+  467  odjm2011052477-06,o2011001C-1-12_01_p03
+  468: odjm2011052477-07,o2011001C-1-12_01_p04
+  469  odjm2011052477-08,o2011001C-1-12_04
+  470  odjm2011052477-09,o2011001C-1-12_02_p03
+
+/Users/kimpham54/Desktop/dsu-utsc/week19-20/DMJ-renaming/DMJ-rubyrenameTEST/HELLORENAME/00001.sh:
+  463  mv odjm2011052477-05.xml o2011001C-1-12_03.xml
+  464  mv odjm2011052477-06.xml o2011001C-1-12_01_p03.xml
+  465: mv odjm2011052477-07.xml o2011001C-1-12_01_p04.xml
+  466  mv odjm2011052477-08.xml o2011001C-1-12_04.xml
+  467  mv odjm2011052477-09.xml o2011001C-1-12_02_p03.xml
+
+/Users/kimpham54/Desktop/dsu-utsc/week19-20/DMJ-renaming/DMJ-rubyrenameTEST/HELLORENAME/00001a.bat:
+  463  ren odjm2011052477-05.xml o2011001C-1-12_03.xml
+  464  ren odjm2011052477-06.xml o2011001C-1-12_01_p03.xml
+  465: ren odjm2011052477-07.xml o2011001C-1-12_01_p04.xml
+  466  ren odjm2011052477-08.xml o2011001C-1-12_04.xml
+  467  ren odjm2011052477-09.xml o2011001C-1-12_02_p03.xml
+
+/Users/kimpham54/Desktop/dsu-utsc/week19-20/DMJ-renaming/DMJ-rubyrenameTEST/HELLORENAME2.csv:
+  464  mv,odjm2011052477-05.xml,,o2011001C-1-12_03.xml
+  465  mv,odjm2011052477-06.xml,,o2011001C-1-12_01_p03.xml
+  466: mv,odjm2011052477-07.xml,,o2011001C-1-12_01_p04.xml
+  467  mv,odjm2011052477-08.xml,,o2011001C-1-12_04.xml
+  468  mv,odjm2011052477-09.xml,,o2011001C-1-12_02_p03.xml
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/archive/rename-xsltv1.0/20140520-HELLORENAME.csv:
+  462  odjm2011052477-05,o2011001C-1-12_03
+  463  odjm2011052477-06,o2011001C-1-12_01_p03
+  464: odjm2011052477-07,o2011001C-1-12_01_p04
+  465  odjm2011052477-08,o2011001C-1-12_04
+  466  odjm2011052477-09,o2011001C-1-12_02_p03
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/archive/rename-xsltv1.0/HELLORENAME.csv:
+  466  odjm2011052477-05,o2011001C-1-12_03
+  467  odjm2011052477-06,o2011001C-1-12_01_p03
+  468: odjm2011052477-07,o2011001C-1-12_01_p04
+  469  odjm2011052477-08,o2011001C-1-12_04
+  470  odjm2011052477-09,o2011001C-1-12_02_p03
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/archive/rename-xsltv1.0/thiswith.csv:
+  462  <this>odjm2011052477-05</this>,<with>o2011001C-1-12_03</with>
+  463  <this>odjm2011052477-06</this>,<with>o2011001C-1-12_01_p03</with>
+  464: <this>odjm2011052477-07</this>,<with>o2011001C-1-12_01_p04</with>
+  465  <this>odjm2011052477-08</this>,<with>o2011001C-1-12_04</with>
+  466  <this>odjm2011052477-09</this>,<with>o2011001C-1-12_02_p03</with>
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/archive/rename-xsltv1.0/thiswith.xml:
+ 2316  <replace>
+ 2317  <this>odjm2011052477-07</this>
+ 2318: <with>o2011001C-1-12_01_p04</with>
+ 2319  </replace>
+ 2320  
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/helloRDF.xml:
+  627  24 MB</dc:format>
+  628        <dc:identifier>20110524-07</dc:identifier>
+  629:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+  630        <dc:language>N/A</dc:language>
+  631        <dc:relation>Doris McCarthy fonds
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archive/HELLORENAME.csv:
+  466  odjm2011052477-05,o2011001C-1-12_03
+  467  odjm2011052477-06,o2011001C-1-12_01_p03
+  468: odjm2011052477-07,o2011001C-1-12_01_p04
+  469  odjm2011052477-08,o2011001C-1-12_04
+  470  odjm2011052477-09,o2011001C-1-12_02_p03
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archive/ingestreference-original.xml:
+   20  <dc:source>o2011001C-1-12_03</dc:source>
+   21  <dc:source>o2011001C-1-12_01_p03</dc:source>
+   22: <dc:source>o2011001C-1-12_01_p04</dc:source>
+   23  <dc:source>o2011001C-1-12_02_p03</dc:source>
+   24  <dc:source>o2011001C-1-12_02_p04</dc:source>
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP1a-CreatingXSL/20140520-HELLORENAME.csv:
+  462  odjm2011052477-05,o2011001C-1-12_03
+  463  odjm2011052477-06,o2011001C-1-12_01_p03
+  464: odjm2011052477-07,o2011001C-1-12_01_p04
+  465  odjm2011052477-08,o2011001C-1-12_04
+  466  odjm2011052477-09,o2011001C-1-12_02_p03
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP1a-CreatingXSL/thiswith.csv:
+  462  <this>odjm2011052477-05</this>,<with>o2011001C-1-12_03</with>
+  463  <this>odjm2011052477-06</this>,<with>o2011001C-1-12_01_p03</with>
+  464: <this>odjm2011052477-07</this>,<with>o2011001C-1-12_01_p04</with>
+  465  <this>odjm2011052477-08</this>,<with>o2011001C-1-12_04</with>
+  466  <this>odjm2011052477-09</this>,<with>o2011001C-1-12_02_p03</with>
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP1a-CreatingXSL/thiswith.xml:
+ 1853  <replace>
+ 1854  <this>odjm2011052477-07</this>
+ 1855: <with>o2011001C-1-12_01_p04</with>
+ 1856  </replace>
+ 1857  <replace>
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP1b-oxygen-mapping/Result-DMJmappedDC.xml:
+  627  24 MB</dc:format>
+  628        <dc:identifier>20110524-07</dc:identifier>
+  629:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+  630        <dc:language>N/A</dc:language>
+  631        <dc:relation>Doris McCarthy fonds
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP1b-oxygen-mapping/thiswith.xsl:
+ 1860  <replace>
+ 1861  <this>odjm2011052477-07</this>
+ 1862: <with>o2011001C-1-12_01_p04</with>
+ 1863  </replace>
+ 1864  <replace>
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP2-project-manualrename/ingestreference.xml:
+   38  <dc:source>o2011001C-1-12_03</dc:source>
+   39  <dc:source>o2011001C-1-12_01_p03</dc:source>
+   40: <dc:source>o2011001C-1-12_01_p04</dc:source>
+   41  <dc:source>o2011001C-1-12_02_p03</dc:source>
+   42  <dc:source>o2011001C-1-12_02_p04</dc:source>
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP2-project-manualrename/Result-DMJmappedDC-v2.0cleanup.xml:
+  627  24 MB</dc:format>
+  628        <dc:identifier>20110524-07</dc:identifier>
+  629:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+  630        <dc:language>N/A</dc:language>
+  631        <dc:relation>Doris McCarthy fonds
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP2-project-manualrename/Result-DMJmappedDC-v2.1.1RDFTagForSplit.xml:
+  669  24 MB</dc:format>
+  670        <dc:identifier>20110524-07</dc:identifier>
+  671:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+  672        <dc:language>N/A</dc:language>
+  673        <dc:relation>Doris McCarthy fonds
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP2-project-manualrename/Result-DMJmappedDC-v2.1cleanup.xml:
+  627  24 MB</dc:format>
+  628        <dc:identifier>20110524-07</dc:identifier>
+  629:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+  630        <dc:language>N/A</dc:language>
+  631        <dc:relation>Doris McCarthy fonds
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP2-project-manualrename/Result-DMJmappedDC-v2cleanup.xml:
+  627  24 MB</dc:format>
+  628        <dc:identifier>20110524-07</dc:identifier>
+  629:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+  630        <dc:language>N/A</dc:language>
+  631        <dc:relation>Doris McCarthy fonds
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP2b-cleanduplicates/Result-DMJmappedDC-v2.1.2removedup.xml:
+  669  24 MB</dc:format>
+  670        <dc:identifier>20110524-07</dc:identifier>
+  671:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+  672        <dc:language>N/A</dc:language>
+  673        <dc:relation>Doris McCarthy fonds
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP3-DCsplit/DCsplit_xml/helloRDF-22.xml:
+   17  24 MB</dc:format>
+   18        <dc:identifier>20110524-07</dc:identifier>
+   19:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+   20        <dc:language>N/A</dc:language>
+   21        <dc:relation>Doris McCarthy fonds
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP3-DCsplit/NOWORKDCsplit_xml/hello.xml:
+  648  24 MB</dc:format>
+  649        <dc:identifier>20110524-07</dc:identifier>
+  650:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+  651        <dc:language>N/A</dc:language>
+  652        <dc:relation>Doris McCarthy fonds
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP3alt-MODStransform/DMJ.xml:
+  627  24 MB</dc:format>
+  628        <dc:identifier>20110524-07</dc:identifier>
+  629:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+  630        <dc:language>N/A</dc:language>
+  631        <dc:relation>Doris McCarthy fonds
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP3alt-MODStransform/DMJ2MODS.xml:
+ 1379        <relatedItem type="original">
+ 1380           <titleInfo>
+ 1381:             <title>o2011001C-1-12_01_p04</title>
+ 1382           </titleInfo>
+ 1383        </relatedItem>
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP4-DCrename/DCsplit_xml-RESULT/o2011001C-1-12_01_p04.xml:
+   17  24 MB</dc:format>
+   18        <dc:identifier>20110524-07</dc:identifier>
+   19:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+   20        <dc:language>N/A</dc:language>
+   21        <dc:relation>Doris McCarthy fonds
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP4altA-MODSsplitfail/helloMOD.xml:
+ 1379        <relatedItem type="original">
+ 1380           <titleInfo>
+ 1381:             <title>o2011001C-1-12_01_p04</title>
+ 1382           </titleInfo>
+ 1383        </relatedItem>
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP4altB-MODSsplit/helloMODS.xml:
+ 1295        <relatedItem type="original">
+ 1296           <titleInfo>
+ 1297:             <title>o2011001C-1-12_01_p04</title>
+ 1298           </titleInfo>
+ 1299        </relatedItem>
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP4altB-MODSsplit/MODSsplit/helloMODs-22.xml:
+   42        <relatedItem type="original">
+   43           <titleInfo>
+   44:             <title>o2011001C-1-12_01_p04</title>
+   45           </titleInfo>
+   46        </relatedItem>
+
+/Users/kimpham54/Desktop/dsu-utsc/week21/rename-xslt/archived-STEPS/STEP5-DC2MODS/DC2MODS-notyet/o2011001C-1-12_01_p04.xml:
+   17  24 MB</dc:format>
+   18        <dc:identifier>20110524-07</dc:identifier>
+   19:       <dc:source>o2011001C-1-12_01_p04</dc:source>
+   20        <dc:language>N/A</dc:language>
+   21        <dc:relation>Doris McCarthy fonds
+
+34 matches across 34 files

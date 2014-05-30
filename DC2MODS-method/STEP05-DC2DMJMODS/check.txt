@@ -1,0 +1,44 @@
+checked that all files were valid in oxygen
+ideally 728 files in MODS will be produced
+
+change 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<hello xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+       xmlns:xlink="http://www.w3.org/1999/xlink"
+       xmlns="http://www.loc.gov/mods/v3"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <mods version="3.4">
+
+to
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+
+
+change
+
+   </mods>
+</hello>
+
+
+to
+
+   </mods>
+
+-------------------------------------------------------
+change
+<rdf:Description 
+
+to
+<?xml version="1.0"?>
+<!DOCTYPE rdf:RDF SYSTEM "http://purl.org/dc/schemas/dcmes-xml-20000714.dtd">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description 
+
+
+change
+   </rdf:Description>
+to
+   </rdf:Description>
+</rdf:RDF>

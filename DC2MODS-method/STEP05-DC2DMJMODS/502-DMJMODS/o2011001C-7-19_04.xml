@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hello xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+       xmlns:xlink="http://www.w3.org/1999/xlink"
+       xmlns="http://www.loc.gov/mods/v3"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <mods version="3.4">
+      <titleInfo>
+         <title>Doris McCarthy: Feast of Incarnation
+</title>
+      </titleInfo>
+      <name>
+         <namePart>Justina M Barnicke Gallery, Hart House</namePart>
+         <role>
+            <roleTerm type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name>
+         <namePart>Gallery/Stratford</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <genre authority="dct">text</genre>
+      <subject>
+         <topic>Painting Canadian - 20th century - Exhibitions; McCarthy, Doris, 1910-2010 - Exhibitions; Justina M Barnicke Gallery</topic>
+      </subject>
+      <subject>
+         <geographic>1990-1999
+Toronto (Toronto Metropolitan Area, Ontario : inhabited place);</geographic>
+      </subject>
+      <note>Invitation to opening and exhibition "Doris McCarthy: Feast of Incarnation" at Justina M Barnicke Gallery from 1993-11-18 to 1993-12-16
+
+Item in good condition.</note>
+      <originInfo>
+         <publisher/>
+      </originInfo>
+      <originInfo>
+         <dateOther>1993</dateOther>
+      </originInfo>
+      <physicalDescription>
+         <note>invitations; exhibition openings;
+ink; paper
+15.3 cm x 10.2 cm
+tiff
+50 MB</note>
+      </physicalDescription>
+      <identifier type="local">20110413-05</identifier>
+      <relatedItem type="original">
+         <titleInfo>
+            <title>o2011001C-7-19_04</title>
+         </titleInfo>
+      </relatedItem>
+      <relatedItem>
+         <titleInfo>
+            <title>Doris McCarthy fonds
+Galleries, Art Associations, and Artist Activities
+Exhibition Cards
+</title>
+         </titleInfo>
+      </relatedItem>
+      <language>
+         <languageTerm type="code">eng</languageTerm>
+      </language>
+      <accessCondition>University of Toronto Scarborough
+Canadian and international copyright laws protect this digital files. Meant for research and study. Commercial use or distribution is not permitted without the permission of the copyright holder. Please contact holding institution for further information.</accessCondition>
+   </mods>
+</hello>
+
